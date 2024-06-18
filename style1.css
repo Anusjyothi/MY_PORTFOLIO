@@ -1,0 +1,13 @@
+#teddy{
+    border: 5px solid white;
+    width: 100%;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
